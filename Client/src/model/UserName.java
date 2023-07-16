@@ -10,7 +10,7 @@ public class UserName {
         this.setUSERNAME(USERNAME);
     }
 
-    public String getUSERNAME() {
+    public  String getUSERNAME() {
         return USERNAME;
     }
 
