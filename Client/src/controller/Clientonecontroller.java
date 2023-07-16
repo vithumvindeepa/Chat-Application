@@ -169,7 +169,7 @@ public class Clientonecontroller extends Thread {
 
         public void send(){
             String msg = txtclientone.getText();
-          //  writer.println(lblname.getText() + ": " + txtclientone.getText());
+            writer.println(lblname.getText() + ": " + txtclientone.getText());
 
             txtclientone.clear();
 
